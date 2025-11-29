@@ -7,7 +7,7 @@
   * 2024-Present
 
 ### 📄Certifications📜
-
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4018e51f56114d5c9de2e1541f6d31a2)
 
 ### 💻Skillsets⚙️
 * **Programming:** Java
